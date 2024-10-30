@@ -1,5 +1,5 @@
 # CST_CS_T3
-This is my second Git Repository. In this you'll see my task 3 of Cyber Security.
+This is my third Git Repository. In this, you'll see my task 3 of Cyber Security.
 
 Password Complexity Checker Build a tool that assesses the strength of a password based on criteria such as length, presence of uppercase and lowercase letters, numbers, and special characters. Provide feedback to users on the password's strength.
 
